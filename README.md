@@ -1,1 +1,1 @@
-# Bilgisayar-Aglari---Guvenli-Dosya-Transfer-Sistemi-Dosya-
+# Bilgisayar-Aglari---Guvenli-Dosya-Transfer-Sistemi
